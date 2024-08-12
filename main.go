@@ -5,6 +5,7 @@ import (
 	"os"
 
 	"github.com/haha-systems/stega-lsb/crypto"
+	"github.com/haha-systems/stega-lsb/lsb"
 )
 
 func main() {

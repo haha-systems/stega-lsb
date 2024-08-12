@@ -3,7 +3,6 @@ package lsb
 import (
 	"fmt"
 	"image"
-	"image/png"
 	"os"
 )
 
